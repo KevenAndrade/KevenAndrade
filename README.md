@@ -1,24 +1,49 @@
-## Hey, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### How are you? I hope you are well, welcome to my profile. 
+## Hello, I'm Keven Andrade - aka [Xibinho]
+<div>
+  <img align="right" alt="Gif" width="150px" src="https://www.puttiapps.com/wp-content/uploads/2021/05/Training-and-Application.gif"/>
+</div>
+<h3> I'm Developer, and a Science Enthusiast!!</h3>
 
-I am passionate, I love and live programming, and I always seek to improve and intensify my learning, always challenging myself and learning new things.
-The programming made me see that the world is not the same as before I met it, and I experience this with every line of code made.
-I am very optimistic with my goals, dreams and especially with the goals that I trace to my inner self. The main one is always to fight my biggest enemy, yesterday's self. I try to be better day after day, in every way, in the professional, personal, social, and my family! This is my essence and what defines me.
-I always keep myself informed and updated, and I always try to learn about what I don't know, and of course, to go even deeper into the things I already know. I love to stimulate my ability to solve problems and my creativity.
+- 🔭 I studied Software Engineering
+- 📚 I'm currently learning Flutter
+- 🥅 2021 Goals: Contribute more and Learn even more
+- ⚡ Fun fact: I'm kinda lazy but also very focused
 
-Early this year i started a challenge on myself to code everyday, even if its just a little bit of code, not to call braging rigths but to inprove myself every day, so im constantly learning and inproving my skills.
+---
+ <div>
+  <a href="https://github.com/KevenAndrade">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KevenAndrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenAndrade&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<!--
-**KevenAndrade/KevenAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ---
+### Languages and Tools:
 
-Here are some ideas to get you started:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+ <img align="left" alt="Javascript" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Matlab" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
+<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+<img align="left" alt="Arduino" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" />  
+<br />
+ 
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href = "mailto:hirlandeer7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/xibinhu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/xibinhoo" target="_blank"><img src="https://img.shields.io/badge/twitter-229fec?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/keven7andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/kevenandrade7" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1773ea?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+   <a href="https://t.me/Xibinho" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+
+[facebook]: https://www.facebook.com/kevenandrade7
+[twitter]: https://twitter.com/xibinhoo
+[instagram]: https://www.instagram.com/xibinhu/
+[linkedin]: linkedin.com/in/keven7andrade/
+
+
