@@ -1,7 +1,9 @@
 ## Hello, I'm Keven Andrade - aka [Xibinho]
 <div>
-  <img align="right" alt="Gif" width="150px" src="https://www.puttiapps.com/wp-content/uploads/2021/05/Training-and-Application.gif"/>
+  <img align="right" alt="Gif" width="250px" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif"/>
 </div>
+
+
 <h3> I'm Developer, and a Science Enthusiast!!</h3>
 
 - 🔭 I studied Software Engineering
