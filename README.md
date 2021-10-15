@@ -9,7 +9,7 @@
 - 🔭 I studied Software Engineering
 - 📚 I'm currently learning Flutter
 - 🥅 2021 Goals: Contribute more and Learn even more
-- ⚡ Fun fact: I'm kinda lazy but also very focused
+- 🧠 If I dont know i will Learn
 
 ---
  <div>
