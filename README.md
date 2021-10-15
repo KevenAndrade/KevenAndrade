@@ -1,4 +1,4 @@
-## Hello, I'm Keven Andrade - aka [Xibinho]
+## Hello, I'm Keven Andrade - aka as Xibinho
 <div>
   <img align="right" alt="Gif" width="200px" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif"/>
 </div>
@@ -9,7 +9,7 @@
 - 🔭 I studied Software Engineering
 - 📚 I'm currently learning Flutter
 - 🥅 2021 Goals: Contribute more and Learn even more
-- 🧠 If I dont know i will Learn
+- 🧠 Mindset: If I dont know, I'm going to Learn
 
 ---
  <div>
