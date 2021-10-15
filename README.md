@@ -1,6 +1,6 @@
 ## Hello, I'm Keven Andrade - aka [Xibinho]
 <div>
-  <img align="right" alt="Gif" width="250px" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif"/>
+  <img align="right" alt="Gif" width="200px" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif"/>
 </div>
 
 
