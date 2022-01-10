@@ -8,7 +8,7 @@
 
 - 🔭 I studied Software Engineering
 - 📚 I'm currently learning Flutter
-- 🥅 2021 Goals: Contribute more and Learn even more
+- 🥅 2022 Goals: Contribute more and Learn even more
 - 🧠 Mindset: If I dont know, I'm going to Learn
 
 ---
