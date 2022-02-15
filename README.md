@@ -1,8 +1,4 @@
 ## Hello, I'm Keven Andrade - aka as Xibinho
-<div>
-  <img align="right" alt="Gif" width="200px" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif"/>
-</div>
-
 
 <h3> I'm Developer, and a Science Enthusiast!!</h3>
 
