@@ -3,9 +3,9 @@
 <h3> I'm Developer, and a Science Enthusiast!!</h3>
 
 - 🔭 I studied Software Engineering
-- 📚 I'm currently learning Flutter
+- 📚 I'm currently foucused in React/Node
 - 🥅 2022 Goals: Contribute more and Learn even more
-- 🧠 Mindset: If I dont know, I'm going to Learn
+- 🧠 Mindset: Doing it everyday
 
 ---
  <div>
