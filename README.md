@@ -3,7 +3,7 @@
 <h3> I'm Developer, and a Science Enthusiast!!</h3>
 
 - 🔭 I studied Software Engineering
-- 📚 I'm currently foucused in React/Node
+- 📚 I'm currently focused in React/Node
 - 🥅 2022 Goals: Contribute more and Learn even more
 - 🧠 Mindset: Doing it everyday
 
