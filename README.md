@@ -3,8 +3,8 @@
 <h3> I'm Developer, and a Science Enthusiast!!</h3>
 
 - 🔭 I studied Software Engineering
-- 📚 I'm currently focused in React/Node
-- 🥅 2022 Goals: Contribute more and Learn even more
+- 📚 I'm diving into the Spring Boot world !!!
+- 🥅 2023 Goals: Contribute more and Learn even more
 - 🧠 Mindset: Doing it everyday
 
 ---
