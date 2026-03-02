@@ -3,8 +3,8 @@
 <h3> I'm Developer, and a Science Enthusiast!!</h3>
 
 - 🔭 I studied Software Engineering
-- 📚 I'm diving into RPA and AI !!!
-- 🥅 2025 Goals: Contribute more and Learn even more
+- 📚 I'm diving into AI !!!
+- 🥅 2026 Goals: Contribute more and Learn even more
 - 🧠 Mindset: Doing it everyday
 
 ---
